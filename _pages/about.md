@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ![Illustration of research in computer science](/images/profile_image.png){: .align-right width="300px"}
 
 👨🏻‍💻 I'm a PhD candidate in Computer Science & Engineering at IIT Patna, specializing in Natural Language Processing and multimodal AI.
